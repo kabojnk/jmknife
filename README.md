@@ -16,5 +16,5 @@ If you downloaded an updated version of the XML file to use, make sure to replac
 
 # Usage
 
-	node kdknife.js
+	node jmknife.js
 
