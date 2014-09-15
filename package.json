@@ -1,0 +1,31 @@
+{
+  "name": "kdknife",
+  "version": "0.1.0",
+  "description": "A kanjidic2 => json => mongodb extraction tool",
+  "main": "kdknife.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kabojnk/kdknife.git"
+  },
+  "keywords": [
+    "kanji",
+    "kanjidic",
+    "kanjidic2"
+  ],
+  "author": "Kevin D. Mahoney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabojnk/kdknife/issues"
+  },
+  "homepage": "https://github.com/kabojnk/kdknife",
+  "dependencies": {
+    "eyes": "^0.1.8",
+    "jsonfile": "^2.0.0",
+    "mongodb": "^1.4.10",
+    "replace": "^0.3.0",
+    "xml2js": "^0.4.4"
+  }
+}
